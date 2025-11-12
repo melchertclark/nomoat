@@ -1,0 +1,82 @@
+Title: My AI startup tried ‘nerd-sniping’ by posting math puzzles with a hidden message all over San Francisco. It worked. - Podcast Life
+
+URL Source: https://podcastlife.net/my-ai-startup-tried-nerd-sniping-by-posting-math-puzzles-with-a-hidden-message-all-over-san-francisco-it-worked/
+
+Published Time: 2025-04-10T17:00:44+00:00
+
+Markdown Content:
+This story is available exclusively to Business Insider subscribers. [Become an Insider](https://podcastlife.net/subscription) and start reading now.
+
+_This as-told-to essay is based on a conversation with Felicia Tang, chief of staff at startup_[_Exa_](https://exa.ai/)_. It has been edited for length and clarity._
+
+San Francisco is a [super competitive job market](https://www.businessinsider.com/downleveled-tech-coding-job-offers-on-rise-former-meta-manager-2025-4), especially for machine learning engineers and high-quality backend and full-stack [engineers](https://www.businessinsider.com/jobs-software-engineers-coders-bad-market-ai-2025-3).
+
+For us, outbound hiring usually means our cofounders tapping into their Harvard networks, or us identifying companies we think have good engineers and manually sending personalized messages on [LinkedIn](https://www.businessinsider.com/linkedin). But this takes a lot of time, it's extremely monotonous, and it doesn't yield such great returns.
+
+So we were thinking, how do we get people who are already interested to come to us?
+
+I got to thinking about nerd-sniping, which is essentially where really smart or curious people see a problem and they can't just walk away — they have to solve it. That's the type of person we want.
+
+So, what if we did a treasure hunt, or put up posters in the city? That's where the idea of math questions came up.
+
+![Image 1: startup Exa poster with math problem whose answer is Exa](https://podcastlife.net/my-ai-startup-tried-nerd-sniping-by-posting-math-puzzles-with-a-hidden-message-all-over-san-francisco-it-worked/%7B%22https://i.insider.com/67f6b4c0c6ad288d147db037%22:%7B%22contentType%22:%22image/png%22,%22aspectRatioW%22:1545,%22aspectRatioH%22:2000%7D%7D)
+
+ Tang says the idea was inspired by "nerd-sniping."  Felicia Tang/Exa 
+
+I asked our engineers to come up with math problems that equal exa, which is a prefix meaning 10^18. Then I added a slug to our website for people who solved the problem. It says dinner's on us; if you're interested, email Felicia.
+
+Our CEO, Will, and I put up around 100 posters of five different problems. We started on foot but it was insanely inefficient so we scootered the rest of the way.
+
+![Image 2: startup Exa poster with math problem whose answer is Exa](https://podcastlife.net/my-ai-startup-tried-nerd-sniping-by-posting-math-puzzles-with-a-hidden-message-all-over-san-francisco-it-worked/%7B%22https://i.insider.com/67f6b4c0a466d2b74ab2b260%22:%7B%22contentType%22:%22image/png%22,%22aspectRatioW%22:1545,%22aspectRatioH%22:2000%7D%7D)
+
+ Exa's engineers came up with several math problems for the posters.  Felicia Tang/Exa 
+
+There's a map online with locations of all of the tech offices, and they're concentrated in this line, so we postered there. We also hit Hayes Valley because there's a lot of foot traffic there and ended at Dolores Park and just handed posters out to people there.
+
+Initially, we felt a little bit down about it. We were like, "Nobody's going to look at these posters. What are we doing?"
+
+Handing out the posters to people was also kind of daunting. I'm an introvert, so I was like, "We're going to go up to people and give them math questions?" But it actually worked out.
+
+![Image 3: startup Exa poster](https://podcastlife.net/my-ai-startup-tried-nerd-sniping-by-posting-math-puzzles-with-a-hidden-message-all-over-san-francisco-it-worked/%7B%22https://i.insider.com/67f6b4c03fe8d39283629960%22:%7B%22contentType%22:%22image/png%22,%22aspectRatioW%22:1545,%22aspectRatioH%22:2000%7D%7D)
+
+ Each of the problem's solutions is the startup's name, Exa.  Felicia Tang/Exa 
+
+I got over 100 emails. I also posted on LinkedIn about our posters, and my connection requests went from like 100 to almost 600.
+
+Some people who emailed just said, "I love puzzles. If you have more puzzles, give them to me."
+
+Other said they were interested in our open jobs and sent me their résumés. We got people from Google, Apple, Retool, a ton of [machine learning](https://www.businessinsider.com/wharton-business-school-upenn-ai-curriculum-2025-4) Ph.D. candidates.
+
+Some people were just asking for [Uber Eats](https://www.businessinsider.com/uber-eats-gig-worker-nyc-job-pay-unsustainable-minimum-wage-2025-3) credits. They were like, "You said dinner's on us."
+
+One person even asked me out.
+
+Our signs were also reposted on different blogs. Somebody put it up on Hacker News. They roasted it for being too brute-force of a problem and wanted fewer mechanical problems. We thought this was really funny. For me, I see it as a win; if you have haters on Hacker News, you're doing something right.
+
+![Image 4: startup Exa poster with math problem whose answer is Exa](https://podcastlife.net/my-ai-startup-tried-nerd-sniping-by-posting-math-puzzles-with-a-hidden-message-all-over-san-francisco-it-worked/%7B%22https://i.insider.com/67f6b4c0c6ad288d147db036%22:%7B%22contentType%22:%22image/png%22,%22aspectRatioW%22:1545,%22aspectRatioH%22:2000%7D%7D)
+
+ Once solved, the full URL on the poster takes you to a page offering dinner on Exa for finding the solution.  Felicia Tang/Exa 
+
+I've had intro chats with probably around 30 people from our posters, and I have more on my calendar. We haven't extended any offers yet, but people are going through the pipeline.
+
+We're looking for curious, fun people through this experiment. If you see a problem like this, are you interested in solving it? It's insanely important for people to have that spark in their eye.
+
+We're around 25 people now, so we're a lean team. That means one right hire can change the trajectory in an amazing way, and one wrong hire can change the trajectory in a pretty detrimental way.
+
+We're a startup, so we work really long hours. Without using [LLMs](https://www.businessinsider.com/chatgpt-openai-ai-dictionary-help-understand-nvidia-2023-12) or so on, can you brute force your way through a problem and solve it? If you can do that for a 5-minute problem, then maybe you're willing to do that for a much bigger problem.
+
+![Image 5: startup Exa poster](https://podcastlife.net/my-ai-startup-tried-nerd-sniping-by-posting-math-puzzles-with-a-hidden-message-all-over-san-francisco-it-worked/%7B%22https://i.insider.com/67f6b4c03fe8d39283629961%22:%7B%22contentType%22:%22image/png%22,%22aspectRatioW%22:1545,%22aspectRatioH%22:2000%7D%7D)
+
+ The easiest of the posters simply spells out the URL.  Felicia Tang/Exa 
+
+There are more software engineers than ever now but, at the same time, we have an extremely high hiring bar. We're also a startup, so it's an entirely different culture from the rest of the tech industry, especially [Big Tech](https://www.businessinsider.com/tech-industry-amazon-microsoft-meta-google-companies-intensity-hardcore-2025-3).
+
+One of my colleagues came from a quant firm and I asked him if any one of his friends wants to work here. He said, "Well, they just have different goals in life. They don't really want to grind at a startup. They want to, like, get better at volleyball."
+
+In the future, I think we can definitely still have puzzles as one form of inbound hiring, and it's also a really good filter. We might make an insanely hard puzzle and take it very seriously as inbound.
+
+I feel like [San Francisco](https://www.businessinsider.com/the-top-hacker-houses-in-san-francisco-for-2025-2025-4) sometimes is seen as a very introverted or siloed type of city. Post-COVID, especially in San Francisco, I feel like there's been less of a person-to-person culture; you don't really see strangers talk to each other that much.
+
+But everyone was super receptive, even if they didn't know how to solve the puzzle or didn't want to. You can just put stuff out there, and people will respond to it and engage with it.
+
+_Do you have a story to share on recruiting methods or job-searching? Reach out to this reporter at_[_sjackson@businessinsider.com_](mailto:sjackson@businessinsider.com)_._
